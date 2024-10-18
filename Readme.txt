@@ -1,0 +1,1 @@
+A simple and efficient To-Do List application built with Python, allowing users to manage their tasks, organize them into categories, and save them for future use. This project can be run as a command-line tool or with a Tkinter-based graphical interface.
